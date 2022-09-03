@@ -1,0 +1,12 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DoublyLinkedList.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node runner.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
